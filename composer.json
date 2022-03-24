@@ -44,5 +44,6 @@
         "format": [
             "vendor/bin/php-cs-fixer fix"
         ]
-    }
+    },
+    "abandoned": "ueberdosis/tiptap-php"
 }
